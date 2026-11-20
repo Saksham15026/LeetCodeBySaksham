@@ -11,6 +11,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Saksham15026/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Saksham15026/LeetCode/tree/master/0283-move-zeroes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Saksham15026/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Saksham15026/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Saksham15026/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Sorting
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Saksham15026/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
